@@ -455,11 +455,12 @@ button a {
         width: 92vw;
         max-width: 500px;
         min-width: 300px;
-        top: 23%;
+        top: 17%;
         padding: 2em;
         left: 50%;
-        transform: translate(-50%, -23%);
+        transform: translate(-50%, -17%);
 
     }
+
 
 }
