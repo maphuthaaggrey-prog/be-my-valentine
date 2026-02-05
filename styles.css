@@ -32,11 +32,12 @@ a {
 
 .container {
     background: url(./steptodown.com615710.jpg);
-    height: 100vh;
+    height: 100lvh;
     width: 100%;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .nameBox {
@@ -464,3 +465,4 @@ button a {
 
 
 }
+
